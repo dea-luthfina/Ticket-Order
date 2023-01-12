@@ -12,6 +12,6 @@ package Core;
 public class Linkaja extends Payment{
     @Override
     public String payment() {
-    return "OVO. Please prepare your application.";
+    return "Linkaja. Please prepare your application.";
   } 
 }
